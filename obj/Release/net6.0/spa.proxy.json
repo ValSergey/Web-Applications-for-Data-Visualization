@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44493",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Serega\\Documents\\MyProjects\\sfedu\\exam\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

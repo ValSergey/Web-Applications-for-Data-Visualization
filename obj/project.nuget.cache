@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7aw8toebCMQ8tefDtaP37DSfuH6H0ZjlE2nLGGKOy4Xbrx6FYkPGDiOqDP6NjUOdlgbYbPBq4QSXodsB0tIJ7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Serega\\Documents\\MyProjects\\sfedu\\exam\\exam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serega\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.1\\microsoft.aspnetcore.spaproxy.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

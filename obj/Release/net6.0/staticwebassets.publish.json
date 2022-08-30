@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "O8f0wvelDZaTXHCPOTPwNDHcbplxLvK88VTg1mMPrz0=",
+  "Source": "exam",
+  "BasePath": "_content/exam",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "exam\\wwwroot",
+      "Source": "exam",
+      "ContentRoot": "C:\\Users\\Serega\\Documents\\MyProjects\\sfedu\\exam\\wwwroot\\",
+      "BasePath": "_content/exam",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Serega\\Documents\\MyProjects\\sfedu\\exam\\wwwroot\\favicon.ico",
+      "SourceId": "exam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Serega\\Documents\\MyProjects\\sfedu\\exam\\wwwroot\\",
+      "BasePath": "_content/exam",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
