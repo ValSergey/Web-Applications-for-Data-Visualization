@@ -1,6 +1,8 @@
                              
 							          Publication of this work
-						 [Angular CLI Overview and Command Reference](https://angular.io/cli)
+								  
+								  
+								  
 							   [Valentinov.me](http://valentinov.me)
 							  
 В данном примере я использовал Службу, для внедрения зависимостей @Injectable()  MapService (ну и все остальные базовые примочки)
