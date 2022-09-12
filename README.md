@@ -1,4 +1,4 @@
-                              Publication of this work      http://valentinov.me/
+                              Publication of this work      [Valentinov.me](http://valentinov.me/)
 							  
 В данном примере я использовал Службу, для внедрения зависимостей @Injectable()  MapService (ну и все остальные базовые примочки)
 
